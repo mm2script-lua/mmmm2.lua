@@ -2,4 +2,4 @@ loadstring(game:HttpGet("https://pastefy.app/2YXSuOzz/raw"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2script-lua/mm.ui/refs/heads/main/mm2"))()
+
