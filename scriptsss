@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://pastefy.app/D6TtwXZA/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/9UoWy5YG/raw"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua"))()
